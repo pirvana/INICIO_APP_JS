@@ -11,3 +11,10 @@ luego intalamos las depedencias necesarias:
 npm i express morgan dotenv mongoose moment mongoose-autopopulate nodemon -D
 
 mkdir models, routes, controllers
+
+--------
+
+una vez levantado el proyecto a GIT realizar el siguiente comando para poder ir actualizando regularmente:
+
+git remote add origin https://github.com/pirvana/INICIO_APP_JS.git
+git push -u origin master
